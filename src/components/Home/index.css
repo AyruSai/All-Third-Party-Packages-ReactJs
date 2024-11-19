@@ -1,0 +1,17 @@
+.home-container {
+  font-family: 'Roboto';
+  font-size: 16px;
+  list-style-type: decimal;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 32px;
+  text-decoration: underline;
+  color: #000000;
+}
+
+.list-item {
+  margin-top: 12px;
+  margin-left: 40px;
+}
